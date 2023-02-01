@@ -17,6 +17,7 @@ namespace tabuleiro
 			this.qteMovimentos = 0;
 		}
 
+		
 	}
 }
 
